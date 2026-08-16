@@ -119,7 +119,34 @@ Paris leads the analyzed markets with **351K+ reviews**, highlighting strong his
 **Power BI | Power Query | DAX | Data Modelling | Data Cleaning | KPI Development | Business Intelligence | Data Visualization | Market Analysis | Customer Experience Analytics | Data Storytelling**
 
 ---
+📸 Dashboard Preview
+1️⃣ Marketplace Overview
 
+
+
+
+Executive overview of Airbnb's marketplace covering listings, cities, hosts, property types, pricing, room-type distribution, and city-level listing activity.
+
+2️⃣ Listing Statistics & Marketplace Evolution
+
+
+
+
+Historical analysis of Airbnb listing growth, marketplace lifecycle, host activity, verified hosts, and multiple-listing hosts.
+
+3️⃣ Ratings & Customer Experience
+
+
+
+
+Comparison of Overall, Check-in, Communication, Cleanliness, and Location ratings across the 10 analyzed cities.
+
+4️⃣ Top Reviewed Cities
+
+
+
+
+Analysis of the most reviewed Airbnb cities, highlighting historical guest engagement across major global markets.
 ### 👤 Author
 
 **Rajat Sharma**
